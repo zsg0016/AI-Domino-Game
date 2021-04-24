@@ -5,3 +5,5 @@ To Run game:
 	enter "venv\Scripts\activate"
 2. run game.py file
 	enter "game.py"
+
+If virtual environment does not work, Double click on the game.py and it should execute on its own.
